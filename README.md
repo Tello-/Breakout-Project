@@ -1,5 +1,9 @@
 # Another-Breakout
 Yet another breakout clone..
 
+Should be able to build and run.
 
-Apparently I started a lot of breakout clones while on breaks at my old job. They each hold something different for me to come back to. This one apparently had files too large for git. I'll look into it later. The art used is also not mine but found from online and I will be removing.
+Disclaimer: I do NOT! own the resource files used for the game. I found them on google and they are only provided to allow the game to build. Do not use them for monetary gain.
+
+Click to launch ball.
+Move mouse to control paddle.
