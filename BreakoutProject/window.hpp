@@ -1,8 +1,8 @@
 #pragma once
 
 #include <string.h>
-#include "SFML/Window.hpp"
-#include "SFML/Graphics.hpp"
+#include <SFML/Window.hpp>
+#include <SFML/Graphics.hpp>
 
 // Class for handling the window used for the game
 class Window {

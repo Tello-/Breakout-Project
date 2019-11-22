@@ -3,8 +3,8 @@
 #pragma once
 
 #include "ICollidable.hpp"
-#include "SFML/Graphics.hpp"
-#include "SFML/System/Time.hpp"
+#include <SFML/Graphics.hpp>
+#include <SFML/System/Time.hpp>
 
 class IEntity : 
 	public sf::Drawable, public ICollidable

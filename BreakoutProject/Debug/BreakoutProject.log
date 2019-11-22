@@ -1,2 +1,7 @@
-﻿  brickblock.cpp
-  BreakoutProject.vcxproj -> C:\Users\Josh\source\cppSource\BreakoutProject\Debug\BreakoutProject.exe
+﻿  BreakoutEngine.cpp
+  brick.cpp
+  main.cpp
+  paddle.cpp
+  window.cpp
+  Generating Code...
+  BreakoutProject.vcxproj -> C:\Users\Josh\Desktop\Coding\Game Design\Breakout-Project\Debug\BreakoutProject.exe

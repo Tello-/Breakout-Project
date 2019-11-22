@@ -1,9 +1,9 @@
 #pragma once
-#include "SFML/Graphics/Drawable.hpp" // parent of sf::Sprite
-#include "SFML/Graphics/Sprite.hpp"
-#include "SFML/Graphics/Texture.hpp"
-#include "SFML/Graphics/RenderTarget.hpp"
-#include "SFML/Graphics/RenderStates.hpp"
+#include <SFML/Graphics.hpp>// parent of sf::Sprite
+#include <SFML/Graphics/Sprite.hpp>
+#include <SFML/Graphics/Texture.hpp>
+#include <SFML/Graphics/RenderTarget.hpp>
+#include <SFML/Graphics/RenderStates.hpp>
 
 class Background : public sf::Drawable
 {
